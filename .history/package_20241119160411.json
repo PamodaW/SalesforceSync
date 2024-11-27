@@ -1,0 +1,14 @@
+{
+  "name": "send-data-to-salesforce",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server.js"
+  },
+  "dependencies": {
+      "express": "^4.17.1",
+      "node-fetch": "^3.0.0",
+      "body-parser": "^1.19.0"
+  }
+}
